@@ -1,6 +1,6 @@
 # KaopuActivity-WechatMiniProgram
 
-欢迎使用 微信小程序 靠谱活动
+欢迎使用 靠谱活动 微信小程序
 
 使用微信扫描下列二维码访问 
 
