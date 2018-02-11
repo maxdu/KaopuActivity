@@ -10,4 +10,4 @@
 
 体验版（需要有体验权限）：
 
-![体验版二维码](https://image-in.chcbst.com/etc/trail_version_access_barcode.jpg)
+![体验版二维码](https://image-in.chcbst.com/etc/trail_version_access_barcode.jpg?x-oss-process=style/card)
